@@ -1,0 +1,21 @@
+head {
+  margin: 0cap;
+  padding: 0%;
+  top: 0cqi;
+  font-family: Verdana;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(184, 110, 110);
+}
+
+body {
+  background: lightcyan;
+}
+
+#myButton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

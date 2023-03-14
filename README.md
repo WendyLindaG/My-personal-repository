@@ -1,0 +1,1 @@
+This website provides a platform where memebers of the society can access mental health services.
